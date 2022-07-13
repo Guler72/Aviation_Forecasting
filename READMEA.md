@@ -1,3 +1,3 @@
 # Forecast US Flights
 
-xxxx
+xxxx%
